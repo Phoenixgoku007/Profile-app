@@ -19,3 +19,6 @@ Displays various details about an profile after user login.
 
 <h1> Logged out back to welcome Page</h1>
 <img src="https://user-images.githubusercontent.com/55328026/220985249-9d479111-6d03-426c-84d3-acbb0d7f7491.png"/>
+
+<h1> Database Page</h1>
+![Screenshot (36)](https://user-images.githubusercontent.com/55328026/220988584-8837c21b-3599-4c26-9b88-020e765fd335.png)
