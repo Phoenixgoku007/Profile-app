@@ -3,6 +3,7 @@ Displays various details about an profile after user login.
 
 
 <h1> Index (Welcome) Page</h1>
+<img src="https://user-images.githubusercontent.com/55328026/220984297-ecadff85-4084-42f8-83bf-ebb8b8601b46.png"/>
 ![image](https://user-images.githubusercontent.com/55328026/220984297-ecadff85-4084-42f8-83bf-ebb8b8601b46.png)
 
 
