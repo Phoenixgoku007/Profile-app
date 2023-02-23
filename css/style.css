@@ -1,0 +1,102 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  margin: 0 0 1rem;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: #0077cc;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 12px 16px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #0060a1;
+}
+
+/* Header styles */
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+
+header h1 {
+  margin: 0;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-right: 16px;
+}
+
+/* Main styles */
+main {
+  margin: 16px;
+}
+
+/* Form styles */
+form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+form input[type="email"],
+form input[type="password"],
+form input[type="text"] {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 16px;
+  padding: 12px 16px;
+  width: 100%;
+}
+
+form button[type="submit"] {
+  margin-top: 16px;
+}
+
+/* Profile styles */
+#profile-info {
+  margin-top: 16px;
+}
+
+#profile-info p {
+  margin-bottom: 8px;
+}
+
+#profile-info span {
+  font-weight: bold;
+}
